@@ -2,9 +2,9 @@
 **Colored Discord Icons Theme**
 
 # Installation
-Download the .css theme file from [here](https://github.com/Mohammadreza9457638/) and enjoy.
+Download the .css theme file from <a href="https://raw.githubusercontent.com/sanalzio/coloredDiscordIcons-Theme/master/coloredDiscordIcons.css">here</a> and enjoy.
 
-or use `` theme url.
+or use `https://raw.githubusercontent.com/sanalzio/coloredDiscordIcons-Theme/master/coloredDiscordIcons.css` theme url.
 
 # ScreenShots
 ![Screenshot_1](./1.png)
